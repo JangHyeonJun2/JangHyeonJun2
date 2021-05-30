@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**JangHyeonJun2/JangHyeonJun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on making PortPolio
 - 🌱 I’m currently learning Spring Boot JPA, Security
 - 👨🏻‍💻 I`m currently preparing Junior Web developer
