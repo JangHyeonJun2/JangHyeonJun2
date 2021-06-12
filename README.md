@@ -1,4 +1,4 @@
-### 안뇽~ 여러분들 👋
+###  안녕하세요. 장현준입니다. 👋
 
 - 🔭 I’m currently working on making PortPolio
 - 🌱 I’m currently learning Spring Boot JPA, Security
