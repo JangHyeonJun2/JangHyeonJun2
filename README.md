@@ -1,7 +1,7 @@
 ###  안녕하세요. 장현준입니다. 👋
 
 - 🔭 I’m currently working on making finance IT
-- 🌱 I’m currently learning financial theory, MSA, TESTCODE
+- 🌱 I’m currently learning financial theory, MSA, Test Code
 - 👨🏻‍💻 I`m currently preparing Good developer
 <!--
 - 👯 I’m looking to collaborate on ...
